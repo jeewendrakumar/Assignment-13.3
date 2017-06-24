@@ -3,4 +3,4 @@
 Find out the common design principle between React and Relay
 
 
-Redux is common design principle between React and Relay.
+Flux is common design principle between React and Relay.
